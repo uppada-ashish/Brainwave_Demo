@@ -1,1 +1,0 @@
-print("Hello! This is demo for branching and merging in git")
